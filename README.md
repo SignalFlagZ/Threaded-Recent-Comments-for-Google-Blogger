@@ -16,7 +16,8 @@ Host the following files somewhere.
 - TRC_Simplest_mini.css
 - TRC_Baloon_mini.css
 
-Add jquery to your blog. Edit template html. And add follow lines above </head>tag.
+Add jquery to your blog.  
+Edit template html. And add follow lines above </head>tag.
 ```
 <!-- jQuery -->
 <script src='https://ajax.googleapis.com/ajax/libs/jquery-3.3.1.min.js' type='text/javascript'/>
@@ -60,7 +61,9 @@ Change `yourURL` option to Your Blog address.
 You can choose one from two CSS files, TRC_Simplest_mini.css or TRC_Baloon_mini.css.  
 ## Options
 - itemCount
+    Number of comments.
 - daysNew
+    Number of days to display new arrival mark.
 - isMobile
 
 - cssTRC
