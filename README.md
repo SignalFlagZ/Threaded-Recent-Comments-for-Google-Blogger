@@ -73,4 +73,72 @@ You can choose one from two CSS files, TRC_Simplest_mini.css or TRC_Baloon_mini.
 - cssChildPostedby
 - cssParentCommentBaloon
 - cssChildCommentBaloon
-
+# DOM
+```
+<div class="ThreadedRecentComments">
+  <div class="threadList">
+    <div class="postTitle">
+      <div class="postTitleText">
+        <a>
+          <span id="0">
+            POST TITLE
+          </span>
+        </a>
+      </div>
+      <div class="commentThread">
+        <div class="parent">
+          <span class="comment">
+            <span class="new">
+              New!
+            </span>
+            <span class="commentBaloon">
+              <span class="commentTxt">
+                <a>
+                  COMMENT1
+                </a>
+              </span>
+            </span>
+            <span class="postedby">
+              <img/>
+              <span class="auth">
+                Author1
+              </span>
+              <span class="date">
+                DATE TIME 1
+              </span>
+            </span>
+          </span>
+        </div>
+        <div class="child clearfloat">
+          <span class="comment">
+            <span class="new">
+              New!
+            </span>
+            <span class="commentBaloon">
+              <span class="commentTxt">
+                <a>
+                  COMMENT2
+                </a>
+              </span>
+            </span>
+            <span class="postedby">
+              <img/>
+              <span class="auth">
+                Author2
+              </span>
+              <span class="date">
+                DATE TIME 2
+              </span>
+            </span>
+          </span>
+        </div>
+      <div class="commentThread">
+        ...
+      </div>
+    <div class="postTitle">
+      <div class="postTitleText">
+        ...
+    </div>
+  </div>
+</div>
+```
