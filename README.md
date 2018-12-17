@@ -38,7 +38,7 @@ And add the following code.
     //<!--
     //============================================================
     //     https://signal-flag-z.blogspot.com/
-    //      Copyright 2014-2017 Signal Flag "Z"
+    //      Copyright 2014-2018 Signal Flag "Z"
     //============================================================
     
     jQuery(document).ready(function () {
