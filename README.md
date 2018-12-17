@@ -60,7 +60,7 @@ Change the css and script URL to your host location.
 Change `yourURL` option to Your Blog address.  
 You can choose one from two CSS files, TRC_Simplest_mini.css or TRC_Baloon_mini.css.  
 ## Options
--yourURL
+- yourURL
   - Your blogspot URL
 - itemCount
   - Number of comments.
