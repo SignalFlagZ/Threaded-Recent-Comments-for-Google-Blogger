@@ -2,7 +2,7 @@
 The javascript that displays recent comments interactively with balloons.  
 This script is supposed to be used in the HTML / Javascript gadget of blogspot.
 
-##Try TRC
+## Try TRC
 Clone this repository.  
 Edit `Test_ThreadedRecentComments.html` file.  
 Change `yourURL` option to Your Blog address.  
@@ -58,7 +58,7 @@ And add the following code.
 Change the css and script URL to your host location.  
 Change `yourURL` option to Your Blog address.  
 You can choose one from two CSS files, TRC_Simplest_mini.css or TRC_Baloon_mini.css.  
-##Options
+## Options
 - itemCount
 - daysNew
 - isMobile
