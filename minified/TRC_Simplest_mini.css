@@ -1,0 +1,5 @@
+/*
+ThreadedRecentComments
+Simplest Style Ver.2.2
+*/
+.ThreadedRecentComments .powered{text-align:right;font-size:small;margin:0}.ThreadedRecentComments .commentThread{margin:0 2em 1em}.ThreadedRecentComments .new{color:red}.ThreadedRecentComments .postedby img{vertical-align:middle;width:1em;height:1em}.ThreadedRecentComments .commentTxt:before{content:"\201c"}.ThreadedRecentComments .commentTxt:after{content:"\201d"}.ThreadedRecentComments .parent:before{content:'\00263a'}.ThreadedRecentComments .child:before{content:'\00263b'}.ThreadedRecentComments .postTitleText:before{content:'\002605';'}}
