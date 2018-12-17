@@ -9,7 +9,7 @@ Change `yourURL` option to Your Blog address.
 Open `Test_ThreadedRecentComments.html` file in your browser.  
 
 ## Install on your blogspot
-[in Japnese](https://signal-flag-z.blogspot.com/2017/08/threaded-recent-comments-ver230.html)
+[Sample (in Japnese)](https://signal-flag-z.blogspot.com/2017/08/threaded-recent-comments-ver230.html)
 
 Host the following files somewhere.
 - ThreadedRecentComments_mini.js
@@ -55,11 +55,9 @@ And add the following code.
     </script>
 ```
 
-Change the css and script URL to your host location.
-Change `yourURL` option to Your Blog address.
-You can choose one from two CSS files, TRC_Simplest_mini.css or TRC_Baloon_mini.css.
-
-
+Change the css and script URL to your host location.  
+Change `yourURL` option to Your Blog address.  
+You can choose one from two CSS files, TRC_Simplest_mini.css or TRC_Baloon_mini.css.  
 ##Options
 - itemCount
 - daysNew
