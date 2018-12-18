@@ -35,7 +35,6 @@ And add the following code.
      -->
      <script type="text/javascript" charset="UTF-8">
     //<![CDATA[
-    //<![CDATA[
     //<!--
     //============================================================
     //     https://signal-flag-z.blogspot.com/
