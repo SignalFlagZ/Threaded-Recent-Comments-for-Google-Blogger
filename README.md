@@ -17,7 +17,7 @@ Host the following files somewhere.
 - TRC_Baloon_mini.css
 
 Add jquery to your blog.  
-Edit template html. And add follow lines above </head>tag.
+Edit template html. And add follow lines above `</head>` tag.
 ```
 <!-- jQuery -->
 <script src='https://ajax.googleapis.com/ajax/libs/jquery-3.3.1.min.js' type='text/javascript'/>
