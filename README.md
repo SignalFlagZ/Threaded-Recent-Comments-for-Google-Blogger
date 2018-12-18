@@ -26,7 +26,7 @@ Add the HTML / Javascript gadget to your blog.
 And add the following code.
 ```
     <div id="TRC" class="TRC_feed">Comments will be here...</div>
-    <!-- TRC　V.2.30 -->
+    <!-- TRC -->
     <script defer type="text/javascript" src='https://HOST-URL/ThreadedRecentComments_mini.js' ></script>
     
     <!-- Simplest style  -->
