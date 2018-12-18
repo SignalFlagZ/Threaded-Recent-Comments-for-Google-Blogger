@@ -26,12 +26,14 @@ Add the HTML / Javascript gadget to your blog.
 And add the following code.
 ```
     <div id="TRC" class="TRC_feed">Comments will be here...</div>
+    <!-- TRC　V.2.30 -->
+    <script defer type="text/javascript" src='https://HOST-URL/ThreadedRecentComments_mini.js' ></script>
     
     <!-- Simplest style  -->
-    <link rel="stylesheet" href="https://HOST-URL/TRC_Simplest.css" type="text/css" />
+    <link rel="stylesheet" href="https://HOST-URL/TRC_Simplest_mini.css" type="text/css" />
     
     <!-- Baloon style 
-    <link rel="stylesheet" href= "https://HOST-URL/TRC_Baloon.css" type="text/css" />
+    <link rel="stylesheet" href= "https://HOST-URL/TRC_Baloon_mini.css" type="text/css" />
      -->
      <script type="text/javascript" charset="UTF-8">
     //<![CDATA[
