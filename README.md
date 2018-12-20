@@ -1,5 +1,5 @@
 # Threaded-Recent-Comments-for-Google-Blogger
-The javascript that displays recent comments interactively with balloons.  
+The jQuery Plugin that displays recent comments interactively with balloons.  
 This script is supposed to be used in the HTML / Javascript gadget of blogspot.
 
 ## Try TRC
