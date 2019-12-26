@@ -83,7 +83,7 @@
 				jQuery('.ThreadedRecentComments .parent  .commentBaloon').css(settings.cssParentCommentBaloon);
 			}
 			if (settings.cssChildCommentBaloon != void (0)) {
-				jQuery('.ThreadedRecentComments .child .CommentBaloon').css(settings.cssChildCommentBaloon);
+				jQuery('.ThreadedRecentComments .child .commentBaloon').css(settings.cssChildCommentBaloon);
 			}
 		}
 
