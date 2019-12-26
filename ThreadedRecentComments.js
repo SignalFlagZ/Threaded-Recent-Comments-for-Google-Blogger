@@ -1,6 +1,6 @@
 ﻿//	Threaded Recent Comments JQuery Plugin Ver.2.30
 //	Google Blogger用 最近のコメント表示 
-//						Copyright 2014-2018 Signal Flag "Z"
+//						Copyright 2014-2019 Signal Flag "Z"
 (function ($) {
 	$.fn.ThreadedRecentComments = function (options) {
 		var version = "2.30";
